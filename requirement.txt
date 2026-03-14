@@ -1,0 +1,7 @@
+langchain
+chromadb
+sentence-transformers
+pypdf
+python-docx
+spacy
+scikit-learn

@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+rag_env/
+
+# Chroma database
+chroma_db/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# HuggingFace cache
+.cache/
+
+# Large model files
+*.safetensors

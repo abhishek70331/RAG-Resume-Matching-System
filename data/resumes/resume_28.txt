@@ -1,0 +1,20 @@
+Name: Kabir Iyer
+Location: Chennai, India
+Email: kabir.iyer@example.com
+Phone: +91-9886761010
+
+Professional Summary:
+Software developer with 4+ years of experience building scalable web applications and APIs.
+Strong background in backend development, cloud deployment, and modern JavaScript frameworks.
+
+Skills:
+AWS, SQL, Flask, Data Analysis, Python
+
+Experience:
+Software Developer at TechNova Pvt Ltd (2021 - 2025)
+- Developed REST APIs for enterprise applications
+- Improved system performance and optimized database queries
+- Collaborated with cross-functional teams in agile environments
+
+Education:
+B.Tech in Computer Science

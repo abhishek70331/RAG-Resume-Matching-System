@@ -1,0 +1,15 @@
+Job Title: Python Backend Engineer
+
+We are hiring a Python Backend Engineer.
+
+Requirements:
+- 3+ years Python
+- Experience with Flask or FastAPI
+- SQL knowledge
+- Experience building REST APIs
+- AWS experience preferred
+
+Responsibilities:
+- Build scalable backend services
+- Design database schemas
+- Collaborate with frontend and product teams

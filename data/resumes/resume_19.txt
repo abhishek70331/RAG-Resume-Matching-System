@@ -1,0 +1,20 @@
+Name: Krishna Chatterjee
+Location: Chennai, India
+Email: krishna.chatterjee@example.com
+Phone: +91-9261571957
+
+Professional Summary:
+Software developer with 3+ years of experience building scalable web applications and APIs.
+Strong background in backend development, cloud deployment, and modern JavaScript frameworks.
+
+Skills:
+Python, Flask, REST APIs, Machine Learning, Kubernetes
+
+Experience:
+Software Developer at TechNova Pvt Ltd (2022 - 2025)
+- Developed REST APIs for enterprise applications
+- Improved system performance and optimized database queries
+- Collaborated with cross-functional teams in agile environments
+
+Education:
+B.Tech in Computer Science

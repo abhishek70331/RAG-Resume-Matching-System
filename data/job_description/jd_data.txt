@@ -1,0 +1,15 @@
+Job Title: Data Analyst
+
+We are hiring a Data Analyst.
+
+Requirements:
+- Strong SQL knowledge
+- Experience with Python or R
+- Data visualization tools (PowerBI / Tableau)
+- Statistical analysis
+- Data cleaning and transformation
+
+Responsibilities:
+- Analyze business data
+- Create dashboards and reports
+- Provide insights for decision making

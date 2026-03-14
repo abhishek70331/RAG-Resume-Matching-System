@@ -1,0 +1,20 @@
+Name: Rohan Reddy
+Location: Pune, India
+Email: rohan.reddy@example.com
+Phone: +91-9418388767
+
+Professional Summary:
+Software developer with 1+ years of experience building scalable web applications and APIs.
+Strong background in backend development, cloud deployment, and modern JavaScript frameworks.
+
+Skills:
+Node.js, Kubernetes, SQL, Machine Learning, Linux
+
+Experience:
+Software Developer at TechNova Pvt Ltd (2024 - 2025)
+- Developed REST APIs for enterprise applications
+- Improved system performance and optimized database queries
+- Collaborated with cross-functional teams in agile environments
+
+Education:
+B.Tech in Computer Science

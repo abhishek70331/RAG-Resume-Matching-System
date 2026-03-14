@@ -1,0 +1,15 @@
+Job Title: DevOps Engineer
+
+We are hiring a DevOps Engineer.
+
+Requirements:
+- Linux administration
+- Docker and Kubernetes
+- CI/CD pipelines
+- Cloud platforms (AWS/GCP/Azure)
+- Infrastructure as Code (Terraform)
+
+Responsibilities:
+- Manage infrastructure
+- Automate deployments
+- Monitor system performance

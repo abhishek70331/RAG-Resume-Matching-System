@@ -1,0 +1,15 @@
+Job Title: Frontend Engineer
+
+We are hiring a Frontend Engineer.
+
+Requirements:
+- Strong JavaScript skills
+- Experience with React or Angular
+- HTML5 and CSS3
+- REST API integration
+- UI/UX best practices
+
+Responsibilities:
+- Build responsive web applications
+- Collaborate with designers and backend engineers
+- Optimize frontend performance

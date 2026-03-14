@@ -1,0 +1,20 @@
+Name: Rohan Malhotra
+Location: Mumbai, India
+Email: rohan.malhotra@example.com
+Phone: +91-9448225443
+
+Professional Summary:
+Software developer with 5+ years of experience building scalable web applications and APIs.
+Strong background in backend development, cloud deployment, and modern JavaScript frameworks.
+
+Skills:
+Git, Machine Learning, Python, Node.js, SQL
+
+Experience:
+Software Developer at TechNova Pvt Ltd (2020 - 2025)
+- Developed REST APIs for enterprise applications
+- Improved system performance and optimized database queries
+- Collaborated with cross-functional teams in agile environments
+
+Education:
+B.Tech in Computer Science

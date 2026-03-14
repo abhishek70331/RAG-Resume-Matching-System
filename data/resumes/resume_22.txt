@@ -1,0 +1,20 @@
+Name: Aryan Gupta
+Location: Hyderabad, India
+Email: aryan.gupta@example.com
+Phone: +91-9602199702
+
+Professional Summary:
+Software developer with 2+ years of experience building scalable web applications and APIs.
+Strong background in backend development, cloud deployment, and modern JavaScript frameworks.
+
+Skills:
+React, AWS, Flask, Node.js, Python
+
+Experience:
+Software Developer at TechNova Pvt Ltd (2023 - 2025)
+- Developed REST APIs for enterprise applications
+- Improved system performance and optimized database queries
+- Collaborated with cross-functional teams in agile environments
+
+Education:
+B.Tech in Computer Science

@@ -1,0 +1,15 @@
+Job Title: Machine Learning Engineer
+
+We are hiring a Machine Learning Engineer.
+
+Requirements:
+- Strong Python skills
+- Experience with scikit-learn, TensorFlow, or PyTorch
+- Data preprocessing and feature engineering
+- Model evaluation and deployment
+- Experience with ML pipelines
+
+Responsibilities:
+- Build and train ML models
+- Deploy models to production
+- Work with large datasets
